@@ -18,14 +18,6 @@
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=phmucelin&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
   </tr>
 </table>
 
@@ -46,14 +38,3 @@
 </p>
 
 ---
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/phmucelin/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
