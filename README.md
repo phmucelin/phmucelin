@@ -10,8 +10,7 @@ My journey in computing started at the age of 12, when I began studying **offens
 ---
 
 ## Core Stack
-
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dot-net/dot-net-plain-wordmark.svg" width="48"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" width="48"/>
