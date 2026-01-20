@@ -24,6 +24,6 @@ Meu início na computação foi aos 12 anos, quando comecei a estudar **seguran�
 
 - **Linguagens**: C, Python  
 - **Frameworks**: Django  
-- **Bancos de dados**: MySQL  
+- **Bancos de dados**: MySQL, PostgreSQL  
 - **Ferramentas**: Git, Swagger  
-- **Conceitos**: APIs REST, autenticação, modelagem de dados
+- **Conceitos**: APIs REST, autenticação, Jwt, estrutura de dados
