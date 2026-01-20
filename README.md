@@ -17,3 +17,13 @@ Meu início na computação foi aos 12 anos, quando comecei a estudar **seguran�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="46"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="46"/>
 </p>
+
+---
+
+### Outras habilidades
+
+- **Linguagens**: C, Python  
+- **Frameworks**: Django  
+- **Bancos de dados**: MySQL  
+- **Ferramentas**: Git, Swagger  
+- **Conceitos**: APIs REST, autenticação, modelagem de dados
