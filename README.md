@@ -2,10 +2,10 @@
 
 ## About Me
 
-I am a Computer Science student focused on **backend development**, with a strong interest in the C language family, such as **C# and C++**.  
+I am a Computer Science student focused on **backend development**, with a strong interest in the C language family, such as **C#**.  
 Currently, I develop **APIs using .NET (ASP.NET Core)** and, during my academic journey, I have also worked on web applications using **Django**, being responsible for backend development and collaborating with my team on solution design and database modeling.
 
-My journey in computing started at the age of 12, when I began studying **offensive security in controlled environments**, exploring vulnerabilities such as **SQL Injection** and techniques related to **Denial of Service (DoS)**, always with a strong focus on technical learning. During this period, I developed experimental tools in **C++** to deepen my understanding of networking and IP tracking.
+My journey in computing started at the age of 12, when I began studying **offensive security in controlled environments**, exploring vulnerabilities such as **SQL Injection** and techniques related to **Denial of Service (DoS)**, always with a strong focus on technical learning. During this period, I developed experimental tools to deepen my understanding of networking and IP tracking.
 
 ---
 
