@@ -1,29 +1,30 @@
 # 👨🏻‍💻 Pedro Mucelin
 
-## Sobre mim
+## About Me
 
-Sou estudante de Ciência da Computação com foco em **desenvolvimento backend**, apaixonado pela linhagem de linguagens derivadas de C, como **C# e C++**. Atualmente desenvolvo **APIs em .NET (ASP.NET Core)** e, durante a faculdade, também atuei no desenvolvimento de aplicações web com **Django**, realizando o backend e também colaborando com minha equipe no design das soluções e na **modelagem de bancos de dados**.
+I am a Computer Science student focused on **backend development**, with a strong interest in the C language family, such as **C# and C++**.  
+Currently, I develop **APIs using .NET (ASP.NET Core)** and, during my academic journey, I have also worked on web applications using **Django**, being responsible for backend development and collaborating with my team on solution design and database modeling.
 
-Meu início na computação foi aos 12 anos, quando comecei a estudar **segurança ofensiva em ambientes controlados**, explorando vulnerabilidades como **SQL Injection** e **ataques de negação de serviço**, sempre com foco em aprendizado técnico. Nesse período, desenvolvi ferramentas experimentais em **C++** para aprofundar meu entendimento sobre redes e rastreamento de IP.
+My journey in computing started at the age of 12, when I began studying **offensive security in controlled environments**, exploring vulnerabilities such as **SQL Injection** and techniques related to **Denial of Service (DoS)**, always with a strong focus on technical learning. During this period, I developed experimental tools in **C++** to deepen my understanding of networking and IP tracking.
 
 ---
 
 ## Core Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="46"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="46"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" width="46"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="46"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="46"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dot-net/dot-net-plain-wordmark.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/>
 </p>
 
 ---
 
-### Outras habilidades
+## Other Skills
 
-- **Linguagens**: C, Python  
-- **Frameworks**: Django  
-- **Bancos de dados**: MySQL, PostgreSQL  
-- **Ferramentas**: Git, Swagger  
-- **Conceitos**: APIs REST, autenticação, Jwt, estrutura de dados
+- **Languages:** C, Python  
+- **Frameworks:** Django  
+- **Databases:** PostgreSQL, MySQL  
+- **Tools:** Git, Swagger  
+- **Concepts:** REST APIs, authentication, JWT, data structures
