@@ -26,3 +26,9 @@ My journey in computing started at the age of 12, when I began studying **offens
 - **Databases:** PostgreSQL, MySQL  
 - **Tools:** Git, Swagger  
 - **Concepts:** REST APIs, authentication, JWT, data structures
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phmucelin&color=blue" alt="Profile views"/>
+</p>
