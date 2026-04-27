@@ -1,4 +1,4 @@
-<h1 align="center">Pedro Mucelin</h1>
+<h1 align="center">Pedro Mucelin 👋</h1>
 
 <p align="center">
   Computer Science student · Backend Developer · PUC-Rio
@@ -26,7 +26,7 @@ I build production-grade APIs with **.NET (ASP.NET Core)** and have hands-on exp
 
 ---
 
-## Core Stack
+## Daily Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" title="C#"/>
@@ -39,16 +39,6 @@ I build production-grade APIs with **.NET (ASP.NET Core)** and have hands-on exp
 </p>
 
 <br/>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" title="C"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" title="Django"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="MySQL"/>
-</p>
 
 ---
 
@@ -65,9 +55,6 @@ C# ASP.NET Core · PostgreSQL · React · Docker · Full WhatsApp integration (s
 `RAG Pipelines` &nbsp;&nbsp; `LLM Integration` &nbsp;&nbsp; `JEPA`
 
 ---
-
-## GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmucelin&layout=compact&theme=dark&hide_border=true"/>
 </p>
