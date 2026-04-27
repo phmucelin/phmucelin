@@ -68,7 +68,7 @@ I build production-grade APIs with **.NET (ASP.NET Core)** and have hands-on exp
 
 **[Cuida de Você](https://cuidadevoce.com)** — Caregiving management platform built for real-world use.
 
-C# ASP.NET Core · PostgreSQL · React · Docker · WhatsApp integration via Evolution API
+C# ASP.NET Core · PostgreSQL · React · Docker · Full WhatsApp integration (shift reports, alerts & medical consultation audio transcription)
 
 ---
 
