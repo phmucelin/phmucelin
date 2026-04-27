@@ -10,12 +10,14 @@
 
 <p align="center">
   <a href="https://pedromucelin.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-pedromucelin.tech-black?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Portfolio-pedromucelin.tech-000000?style=flat-square&logo=safari"/>
   </a>
+  &nbsp;
   <a href="mailto:pedro@pedromucelin.tech">
-    <img src="https://img.shields.io/badge/Email-pedro@pedromucelin.tech-black?style=flat-square&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-pedro@pedromucelin.tech-000000?style=flat-square&logo=gmail"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=phmucelin&color=black&style=flat-square" alt="Profile views"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=phmucelin&color=000000&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
@@ -32,26 +34,33 @@ I build production-grade APIs with **.NET (ASP.NET Core)** and have hands-on exp
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" title="C#"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dot-net/dot-net-plain-wordmark.svg" width="48" title=".NET"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" title="Docker"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" title="PostgreSQL"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" title="C"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" title="Django"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="MySQL"/>
 </p>
 
 ---
 
 ## Other Skills
 
-**Languages**
-C &nbsp;·&nbsp; Python
+**Concepts** &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; JWT &nbsp;·&nbsp; Authentication &nbsp;·&nbsp; Data Structures
 
-**Frameworks & ORMs**
-Django &nbsp;·&nbsp; EF Core
-
-**Databases**
-PostgreSQL &nbsp;·&nbsp; MySQL
-
-**Concepts**
-REST APIs &nbsp;·&nbsp; JWT &nbsp;·&nbsp; Authentication &nbsp;·&nbsp; Data Structures
+**ORMs** &nbsp;·&nbsp; EF Core &nbsp;·&nbsp; Prisma
 
 ---
 
@@ -64,9 +73,9 @@ REST APIs &nbsp;·&nbsp; JWT &nbsp;·&nbsp; Authentication &nbsp;·&nbsp; Data S
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=phmucelin&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmucelin&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmucelin&layout=compact&theme=dark&hide_border=true"/>
+  <img src="https://komarev.com/ghpvc/?username=phmucelin&color=000000&style=flat-square" alt="Profile views"/>
 </p>
