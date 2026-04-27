@@ -13,9 +13,11 @@
     <img src="https://img.shields.io/badge/Portfolio-pedromucelin.tech-000000?style=flat-square&logo=safari"/>
   </a>
   &nbsp;
-  <a href="mailto:contatopedromucelin05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contatopedromucelin05@gmail.com-000000?style=flat-square&logo=gmail"/>
+  <a href="mailto:pedro@pedromucelin.tech">
+    <img src="https://img.shields.io/badge/Email-pedro@pedromucelin.tech-000000?style=flat-square&logo=gmail"/>
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=phmucelin&color=000000&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
@@ -59,6 +61,14 @@ I build production-grade APIs with **.NET (ASP.NET Core)** and have hands-on exp
 **Concepts** &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; JWT &nbsp;·&nbsp; Authentication &nbsp;·&nbsp; Data Structures
 
 **ORMs** &nbsp;·&nbsp; EF Core &nbsp;·&nbsp; Prisma
+
+---
+
+## Main Project
+
+**[Cuida de Você](https://cuidadevoce.com)** — Caregiving management platform built for real-world use.
+
+C# ASP.NET Core · PostgreSQL · React · Docker · WhatsApp integration via Evolution API
 
 ---
 
