@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.pedromucelin.tech/public/IMG_7121.jpg" style="width:100%"/>
+  <img src="https://www.pedromucelin.tech/public/IMG_7121.jpg" style="width:80%"/>
 </p>
 
 <h1 align="center">Pedro Mucelin</h1>
