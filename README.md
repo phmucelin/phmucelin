@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://pedromucelin.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-pedromucelin.tech-000000?style=flat-square&logo=safari"/>
+    <img src="https://img.shields.io/badge/Portfolio-pedromucelin.tech-000000?style=flat-square&logo=🖥️"/>
   </a>
   &nbsp;
   <a href="mailto:pedro@pedromucelin.tech">
