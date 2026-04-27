@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://www.pedromucelin.tech/public/IMG_7121.jpg" width="200"/>
+  <img src="https://www.pedromucelin.tech/public/IMG_7121.jpg" width="800"/>
 </p>
+
 # 👨🏻‍💻 Pedro Mucelin
 
 ## About Me
