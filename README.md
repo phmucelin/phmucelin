@@ -46,7 +46,7 @@ I build production-grade APIs with **.NET (ASP.NET Core)** and have hands-on exp
 
 **[Cuida de Você](https://cuidadevoce.com)** — Caregiving management platform built for real-world use.
 
-C# ASP.NET Core · PostgreSQL · React · Docker · Full WhatsApp integration (shift reports, alerts & medical consultation audio transcription)
+C# ASP.NET Core · PostgreSQL · React · Docker · Full WhatsApp integration -> shift reports, alerts & medical consultation audio transcription
 
 ---
 
@@ -54,11 +54,6 @@ C# ASP.NET Core · PostgreSQL · React · Docker · Full WhatsApp integration (s
 
 `RAG Pipelines` &nbsp;&nbsp; `LLM Integration` &nbsp;&nbsp; `JEPA`
 
----
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmucelin&layout=compact&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phmucelin&color=000000&style=flat-square" alt="Profile views"/>
 </p>
