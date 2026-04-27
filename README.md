@@ -22,9 +22,8 @@ My journey in computing started at the age of 12, when I began studying **offens
 ## Other Skills
 
 - **Languages:** C, Python  
-- **Frameworks:** Django  
-- **Databases:** PostgreSQL, MySQL  
-- **Tools:** Git, Swagger  
+- **Frameworks:** Django, EF Core  
+- **Databases:** PostgreSQL, MySQL    
 - **Concepts:** REST APIs, authentication, JWT, data structures
 
 ---
