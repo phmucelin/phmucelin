@@ -2,8 +2,7 @@
   <img src="https://www.pedromucelin.tech/public/IMG_7121.jpg" width="800"/>
 </p>
 
-# 👨🏻‍💻 Pedro Mucelin
-
+# Pedro Mucelin
 ## About Me
 
 I am a Computer Science student focused on **backend development**, with a strong interest in the C language family, such as **C#**.  
