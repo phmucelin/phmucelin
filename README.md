@@ -1,3 +1,4 @@
+<img src="https://www.pedromucelin.tech/public/IMG_7121.jpg", width="100"/>
 # 👨🏻‍💻 Pedro Mucelin
 
 ## About Me
