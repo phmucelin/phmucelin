@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.pedromucelin.tech/public/IMG_7121.jpg" style="width:80%"/>
-</p>
-
 <h1 align="center">Pedro Mucelin</h1>
 
 <p align="center">
