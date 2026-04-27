@@ -25,7 +25,7 @@ My journey in computing started at the age of 12, when I began studying **offens
 - **Frameworks:** Django 
 - **Databases:** PostgreSQL, MySQL    
 - **Concepts:** REST APIs, authentication, JWT, data structures
-
+- **Goals to study:** RAG pipelines, LLM integration, JEPA
 ---
 
 <p align="center">
