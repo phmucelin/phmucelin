@@ -56,14 +56,6 @@ I build production-grade APIs with **.NET (ASP.NET Core)** and have hands-on exp
 
 ---
 
-## Other Skills
-
-**Concepts** &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; JWT &nbsp;·&nbsp; Authentication &nbsp;·&nbsp; Data Structures
-
-**ORMs** &nbsp;·&nbsp; EF Core &nbsp;·&nbsp; Prisma
-
----
-
 ## Main Project
 
 **[Cuida de Você](https://cuidadevoce.com)** — Caregiving management platform built for real-world use.
