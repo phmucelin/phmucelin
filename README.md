@@ -13,11 +13,9 @@
     <img src="https://img.shields.io/badge/Portfolio-pedromucelin.tech-000000?style=flat-square&logo=safari"/>
   </a>
   &nbsp;
-  <a href="mailto:pedro@pedromucelin.tech">
-    <img src="https://img.shields.io/badge/Email-pedro@pedromucelin.tech-000000?style=flat-square&logo=gmail"/>
+  <a href="mailto:contatopedromucelin05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contatopedromucelin05@gmail.com-000000?style=flat-square&logo=gmail"/>
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=phmucelin&color=000000&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
