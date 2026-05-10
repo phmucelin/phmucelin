@@ -53,7 +53,3 @@ C# ASP.NET Core · PostgreSQL · React · Docker · Full WhatsApp integration ->
 ## Goals to Study
 
 `RAG Pipelines` &nbsp;&nbsp; `LLM Integration` &nbsp;&nbsp; `JEPA`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmucelin&layout=compact&theme=dark&hide_border=true"/>
-</p>
