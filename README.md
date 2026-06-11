@@ -54,4 +54,5 @@ C# ASP.NET Core · PostgreSQL · React · Docker · Full WhatsApp integration ->
 
 `RAG Pipelines` &nbsp;&nbsp; `LLM Integration` &nbsp;&nbsp; `JEPA`
 
+![Stats](https://github-readme-stats-ten-teal-48.vercel.app/api?username=phmucelin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default)
 
