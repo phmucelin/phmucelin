@@ -20,7 +20,7 @@
 
 ## About Me
 
-Computer Science student at PUC-Rio focused on **backend development**, with a strong interest in the C language family — especially **C#**.
+Computer Science student at PUC-Rio focused on **backend development**, with a strong interest in the C language family especially **C#**.
 
 I build production-grade APIs with **.NET (ASP.NET Core)** and have hands-on experience with system design, database modeling, and cloud deployments. My path in computing started early: at 12, I was studying **offensive security in controlled environments**, exploring vulnerabilities like SQL Injection and DoS techniques — which shaped how I think about systems and robustness to this day.
 
@@ -53,3 +53,5 @@ C# ASP.NET Core · PostgreSQL · React · Docker · Full WhatsApp integration ->
 ## Goals to Study
 
 `RAG Pipelines` &nbsp;&nbsp; `LLM Integration` &nbsp;&nbsp; `JEPA`
+
+![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=phmucelin&show_icons=true&hide_border=true&count_private=true&theme=default)
