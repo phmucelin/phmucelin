@@ -1,4 +1,4 @@
-<h1 align="center">Pedro Mucelin 👋</h1>
+<h1 align="center">Pedro Henrique 👋</h1>
 
 <p align="center">
   Computer Science student · Backend Developer · PUC-Rio
