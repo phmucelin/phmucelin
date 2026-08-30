@@ -5,14 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://pedromucelin.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-pedromucelin.tech-000000?style=flat-square&logo="/>
-  </a>
-  &nbsp;
-  <a href="mailto:pedro@pedromucelin.tech">
-    <img src="https://img.shields.io/badge/Email-pedro@pedromucelin.tech-000000?style=flat-square&logo=gmail"/>
-  </a>
-  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=phmucelin&color=000000&style=flat-square" alt="Profile views"/>
 </p>
 
