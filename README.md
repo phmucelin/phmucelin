@@ -45,3 +45,13 @@ C# ASP.NET Core · PostgreSQL · React · Docker · Full WhatsApp integration ->
 `RAG Pipelines` &nbsp;&nbsp; `LLM Integration` &nbsp;&nbsp; `JEPA`
 
 
+
+## GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phmucelin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phmucelin&theme=tokyonight" alt="Profile details"/>
+</p>
