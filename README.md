@@ -49,9 +49,10 @@ C# ASP.NET Core · PostgreSQL · React · Docker · Full WhatsApp integration ->
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phmucelin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="48%"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phmucelin&theme=tokyonight" alt="Profile details"/>
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details"/>
 </p>
