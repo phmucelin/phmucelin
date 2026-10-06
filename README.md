@@ -50,6 +50,10 @@ C# ASP.NET Core · PostgreSQL · React · Docker · Full WhatsApp integration ->
 
 <p align="center">
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="48%"/>
+  <img src="./profile-summary-card-output/tokyonight/5-rank.svg" alt="GitHub rank" width="48%"/>
+</p>
+
+<p align="center">
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" width="48%"/>
 </p>
 

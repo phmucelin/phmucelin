@@ -22,3 +22,13 @@ jobs:
           BRANCH_NAME: "main"
           UTC_OFFSET: -3
           THEME: "tokyonight"
+      - name: Gerar card de rank (inclui repos privados)
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: |
+          git pull --rebase origin main
+          python3 .github/scripts/rank_card.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/tokyonight/5-rank.svg
+          git diff --cached --quiet || (git commit -m "chore: atualiza card de rank" && git push origin HEAD:main)
