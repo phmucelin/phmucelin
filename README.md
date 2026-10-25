@@ -26,26 +26,26 @@ Outside of my professional work, I build independent products and explore **soft
 <tr>
 <td width="50%" valign="top">
 
-<h4><img src="assets/face-in.png" alt="" width="28" height="28" align="middle" /> Face In</h4>
+<h4><img src="assets/face-in.png" alt="" width="40" height="40" align="middle" />&nbsp;&nbsp;Face In</h4>
 
 **Facial recognition for macOS**
 
 An independent macOS application I'm developing to explore a more seamless approach to authentication, with an emphasis on security, privacy, and user experience.
 
-[Explore Face In](https://getfacein.app/)
-
 </td>
 <td width="50%" valign="top">
 
-<h4><img src="assets/cuida-de-voce.png" alt="" width="28" height="35" align="middle" /> Cuida de Você</h4>
+<h4><img src="assets/cuida-de-voce-icon.png" alt="" width="36" height="45" align="middle" />&nbsp;&nbsp;Cuida de Você</h4>
 
 **Home healthcare management platform**
 
 A platform I'm developing to help families and caregivers coordinate care, track health information, and manage day-to-day routines in one place.
 
-[Explore Cuida de Você](https://www.cuidadevoce.com/)
-
 </td>
+</tr>
+<tr>
+<td><a href="https://getfacein.app/">Visit Face In website</a></td>
+<td><a href="https://www.cuidadevoce.com/">Visit Cuida de Você website</a></td>
 </tr>
 </table>
 
