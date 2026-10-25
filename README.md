@@ -14,13 +14,13 @@ Building software products, backend systems, and AI-powered applications.
 
 ### About me
 
-I'm a Computer Science undergraduate at **PUC-Rio** and a software developer working across **backend engineering, full-stack applications, enterprise integrations, and cloud infrastructure**.
+I'm a Computer Science undergraduate at **PUC-Rio** and a software developer with hands-on experience in **backend development, full-stack applications, enterprise integrations, and cloud-based systems**.
 
-At **Nath Pereira**, my work includes backend development, AWS infrastructure, and MongoDB.
+My professional work involves developing and maintaining applications, integrating external services, working with databases, and contributing to deployment and infrastructure workflows. I've worked with technologies including **.NET, React, AWS, MongoDB, PostgreSQL, Docker, and Cloudflare R2**, as well as projects involving iOS and Android development.
 
-I enjoy turning real operational problems into reliable software—from designing APIs and data models to building interfaces, integrating external systems, and maintaining deployment pipelines.
+I enjoy solving real-world problems through software, from building APIs and designing data models to integrating systems and improving application reliability.
 
-Outside of my professional work, I build independent products and explore **software architecture, distributed systems, and applied AI**.
+Outside of my professional work, I develop independent products and continue exploring **software architecture, distributed systems, and applied AI**.
 
 ### Selected products
 
