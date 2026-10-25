@@ -26,6 +26,8 @@ Outside of my professional work, I build independent products and explore **soft
 <tr>
 <td width="50%" valign="top">
 
+<p align="center"><a href="https://getfacein.app/"><img src="assets/face-in.png" alt="Face IN logo" width="110" /></a></p>
+
 #### [Face IN](https://getfacein.app/)
 
 **Facial recognition for macOS**
@@ -36,6 +38,8 @@ An independent macOS application I'm developing to explore a more seamless appro
 
 </td>
 <td width="50%" valign="top">
+
+<p align="center"><a href="https://www.cuidadevoce.com/"><img src="assets/cuida-de-voce.png" alt="Cuida de Você logo" width="110" /></a></p>
 
 #### [Cuida de Você](https://www.cuidadevoce.com/)
 
