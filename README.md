@@ -28,20 +28,24 @@ Outside of my professional work, I build independent products and explore **soft
 <tr>
 <td width="50%" valign="top">
 
-<h4><img src="assets/face-in.png" alt="" width="40" height="40" align="middle" />&emsp;Face In</h4>
+<h4><img src="assets/face-in.png" alt="" width="34" height="34" align="middle" />&emsp;Face In</h4>
 
 **Facial recognition for macOS**
 
 An independent macOS application I'm developing to explore a more seamless approach to authentication, with an emphasis on security, privacy, and user experience.
 
+<br />
+
 </td>
 <td width="50%" valign="top">
 
-<h4><img src="assets/cuida-de-voce-icon.png" alt="" width="36" height="45" align="middle" />&emsp;Cuida de Você</h4>
+<h4><img src="assets/cuida-de-voce-icon.png" alt="" width="30" height="38" align="middle" />&emsp;Cuida de Você</h4>
 
 **Home healthcare management platform**
 
 A platform I'm developing to help families and caregivers coordinate care, track health information, and manage day-to-day routines in one place.
+
+<br />
 
 </td>
 </tr>
