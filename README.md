@@ -26,7 +26,7 @@ Outside of my professional work, I build independent products and explore **soft
 <tr>
 <td width="50%" valign="top">
 
-<h4><img src="assets/face-in.png" alt="" width="40" height="40" align="middle" />&nbsp;&nbsp;Face In</h4>
+<h4><img src="assets/face-in.png" alt="" width="40" height="40" align="middle" />&emsp;Face In</h4>
 
 **Facial recognition for macOS**
 
@@ -35,7 +35,7 @@ An independent macOS application I'm developing to explore a more seamless appro
 </td>
 <td width="50%" valign="top">
 
-<h4><img src="assets/cuida-de-voce-icon.png" alt="" width="36" height="45" align="middle" />&nbsp;&nbsp;Cuida de Você</h4>
+<h4><img src="assets/cuida-de-voce-icon.png" alt="" width="36" height="45" align="middle" />&emsp;Cuida de Você</h4>
 
 **Home healthcare management platform**
 
