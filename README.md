@@ -1,47 +1,84 @@
-<h1 align="center">Pedro Henrique 👋</h1>
+<div align="center">
 
-<p align="center">
-  Computer Science student · Backend Developer · PUC-Rio
-</p>
+# Pedro Henrique
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phmucelin&color=000000&style=flat-square" alt="Profile views"/>
-</p>
+**Software Engineer · AI Engineering · CS @ PUC-Rio**
 
----
+Building software products, backend systems, and AI-powered applications.
 
-## About Me
+[Portfolio](https://pedromucelin.tech/) · [LinkedIn](https://www.linkedin.com/in/pedro-mucelin/) · [Face IN](https://getfacein.app/) · [Cuida de Você](https://www.cuidadevoce.com/)
 
-Computer Science student at PUC-Rio focused on **backend development**, with a strong interest in the C language family especially **C#**.
-
-I build production-grade APIs with **.NET (ASP.NET Core)** and have hands-on experience with system design, database modeling, and cloud deployments. My path in computing started early: at 12, I was studying **offensive security in controlled environments**, exploring vulnerabilities like SQL Injection and DoS techniques — which shaped how I think about systems and robustness to this day.
+</div>
 
 ---
 
-## Daily Stack
+### About me
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" title="C#"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dot-net/dot-net-plain-wordmark.svg" width="48" title=".NET"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" title="Docker"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" title="PostgreSQL"/>
-</p>
+I'm a Computer Science undergraduate at **PUC-Rio** and a software developer working across **backend engineering, full-stack applications, enterprise integrations, and cloud infrastructure**.
 
-<br/>
+I enjoy turning real operational problems into reliable software—from designing APIs and data models to building interfaces, integrating external systems, and maintaining deployment pipelines.
+
+Outside of my professional work, I build independent products and explore **software architecture, distributed systems, and applied AI**.
+
+### Selected products
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Face IN](https://getfacein.app/)
+
+**Facial recognition for macOS**
+
+An independent macOS application I'm developing to explore a more seamless approach to authentication, with an emphasis on security, privacy, and user experience.
+
+[Explore Face IN](https://getfacein.app/)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Cuida de Você](https://www.cuidadevoce.com/)
+
+**Home healthcare management platform**
+
+A platform I'm developing to help families and caregivers coordinate care, track health information, and manage day-to-day routines in one place.
+
+[Explore Cuida de Você](https://www.cuidadevoce.com/)
+
+</td>
+</tr>
+</table>
+
+### Engineering focus
+
+- **Backend & APIs:** service design, integrations, authentication, and data modeling.
+- **Full stack:** building user-facing applications connected to reliable backend services.
+- **Infrastructure:** Docker, deployment workflows, CI/CD, and Linux environments.
+- **Applied AI:** integrating AI capabilities into practical products and workflows.
+
+### Tech stack
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | C#, TypeScript, JavaScript, Python, C, SQL |
+| **Backend** | .NET / ASP.NET Core, REST APIs, Node.js |
+| **Frontend** | React, Next.js |
+| **Data** | PostgreSQL |
+| **Infrastructure** | Docker, Linux, GitHub Actions, CI/CD |
+
+### Open-source & experiments
+
+I also use GitHub to explore systems programming, developer tooling, and software engineering fundamentals.
+
+- **[my_vps_monitor](https://github.com/phmucelin/my_vps_monitor)** — a Linux VPS monitoring tool written in C, focused on system resources and Docker containers.
+- **[norte](https://github.com/phmucelin/norte)** — an open-source Swift app.
 
 ---
 
-## Main Stacks
+<div align="center">
 
-C# ASP.NET Core · PostgreSQL · React · Docker · Full WhatsApp integration -> shift reports, alerts & medical consultation audio transcription
+**Interested in backend engineering, AI-powered products, and building useful software.**
 
----
+[Portfolio](https://pedromucelin.tech/) · [LinkedIn](https://www.linkedin.com/in/pedro-mucelin/)
 
-## Goals to Study
-
-`RAG Pipelines` &nbsp;&nbsp; `LLM Integration` &nbsp;&nbsp; `JEPA`
-
-
+</div>
